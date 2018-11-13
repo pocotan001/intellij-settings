@@ -107,10 +107,10 @@
   <action id="SendEOF" />
   <action id="ShowRecentTests" />
   <action id="SplitHorizontally">
-    <keyboard-shortcut first-keystroke="ctrl h" />
+    <keyboard-shortcut first-keystroke="ctrl v" />
   </action>
   <action id="SplitVertically">
-    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="TypeHierarchy" />
   <action id="TypeHierarchy.BaseOnThisType" />
