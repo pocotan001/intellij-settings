@@ -3,7 +3,7 @@
     <macro name="GOPATH" value="$GOPATH" />
     <macro name="GOROOT" value="$GOROOT" />
     <macro name="KOTLIN_BUNDLED" value="/Applications/IntelliJ IDEA.app/Contents/plugins/Kotlin/kotlinc" />
-    <macro name="MAVEN_REPOSITORY" value="/Users/hayato.mizuno/.m2/repository" />
+    <macro name="MAVEN_REPOSITORY" value="/Users/pocotan001/.m2/repository" />
     <ignoredMacro name="MESSAGE" />
     <ignoredMacro name="FILE_PATH" />
     <ignoredMacro name="LINE" />
