@@ -3,10 +3,13 @@
     <extensionMap>
       <mapping pattern=".zlogin" type="Bash" />
       <mapping pattern=".zprofile" type="Bash" />
+      <mapping pattern=".gitconfig" type="Bash" />
       <mapping pattern=".zlogout" type="Bash" />
       <mapping pattern=".zpreztorc" type="Bash" />
       <mapping pattern=".zshenv" type="Bash" />
+      <mapping pattern=".gitignore" type="Bash" />
       <mapping pattern=".zshrc" type="Bash" />
+      <removed_mapping pattern=".gitignore" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
