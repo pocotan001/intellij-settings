@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern=".zlogin" type="Bash" />
+      <mapping pattern=".zprofile" type="Bash" />
+      <mapping pattern=".zlogout" type="Bash" />
+      <mapping pattern=".zpreztorc" type="Bash" />
+      <mapping pattern=".zshenv" type="Bash" />
+      <mapping pattern=".zshrc" type="Bash" />
+    </extensionMap>
+  </component>
+</application>
